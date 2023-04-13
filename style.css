@@ -43,7 +43,7 @@ header>input{
 aside{
     /* background-color: aqua; */
     flex-basis: 250px;
-    list-style: url(/css/layout/image/icons8-more-than-20.png);
+    list-style: url(image/icons8-more-than-20.png);
     margin-top: 100px;
     /* display: flex; */
     /* flex-direction: column; */
