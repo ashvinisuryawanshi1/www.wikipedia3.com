@@ -57,8 +57,11 @@ aside ul li{
 
 .heading h1{
     flex-basis: 250px;
+    /* background-color: aqua; */
+
 }
 .heading p{
+    /* background-color: blueviolet; */
     flex-basis: 119px;
 }
 .heading{
@@ -282,17 +285,13 @@ text-align: justify;
         display: flex;
         justify-content: center;
     }
-    .heading p{
-        margin-left: 20px;  
-      }
+   
     .sub-article p{
         display: flex;
         justify-content: center;
     }
-    .heading h1{
-         margin-left: 20px;
         
-    }
+    
 
     
 
