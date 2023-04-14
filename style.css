@@ -312,6 +312,11 @@ text-align: justify;
         margin-left: 0;
         /* margin-right: 10%; */
     }
+    .heading {
+        flex-basis: 300px;
+        padding-left: 20px;
+    }
+
     
 }
 
