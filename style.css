@@ -67,7 +67,6 @@ aside ul li{
 .heading{
 
     /* background-color: aqua; */
-    
     display: flex;
     flex-wrap: wrap;
     /* flex-wrap: wrap; */
@@ -307,16 +306,15 @@ text-align: justify;
     
     
 }
-@media screen and (max-width:300px){
+@media screen and (max-width:400px){
     .sub-article{
-        margin-left: 0;
+        margin-left: 0%;
         /* margin-right: 10%; */
     }
-    .heading {
-        flex-basis: 300px;
-        padding-left: 20px;
+    .heading{
+        /* background-color: aqua; */
+        /* justify-content: center; */
     }
-
     
 }
 
